@@ -1,0 +1,1 @@
+/Users/allanwasonga/Desktop/todo_list/target/debug/todo_list: /Users/allanwasonga/Desktop/todo_list/src/commands.rs /Users/allanwasonga/Desktop/todo_list/src/file_handler.rs /Users/allanwasonga/Desktop/todo_list/src/main.rs /Users/allanwasonga/Desktop/todo_list/src/task.rs
